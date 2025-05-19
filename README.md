@@ -39,9 +39,9 @@ fields_of_interests:
 
 
 <h2>My GitHub history!</h2>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiguanzon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="akiguanzon" /></p> 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiguanzon&show_icons=true&theme=dracula&locale=en" alt="akiguanzon" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akiguanzon&theme=dracula" alt="akiguanzon" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiguanzon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="akiguanzon" /></p> 
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiguanzon&show_icons=true&theme=dracula&locale=en" alt="akiguanzon" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akiguanzon&theme=dracula" alt="akiguanzon" /></p>
 
 <hr>
 
