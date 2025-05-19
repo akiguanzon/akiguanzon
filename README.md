@@ -1,5 +1,5 @@
-<h1 style="color: #87CEEB">$${\color{#FF79C6FF}Hi, \space My \space name \space is \space Aki \space Guanzon. }$$</h1>
-<h3 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=20&pause=1000&color=FF79C6&center=true&vCenter=true&random=true&width=450&lines=A+passionate+developer+from+the+Philippines+%F0%9F%93%9A" alt="Typing SVG" /></h3>
+![header_new](https://github.com/user-attachments/assets/7ee95557-c0d2-4340-8e82-a9773a698e77)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=23&pause=1000&color=000000&background=FFC2C2&center=true&vCenter=true&random=true&width=1000&lines=++++++++++++++A+passionate+developer+from+the+Philippines+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
 
 
@@ -39,11 +39,9 @@ fields_of_interests:
 
 
 <h2>My GitHub history!</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiguanzon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="akiguanzon" /></p> 
-
-<br><br><br><br><br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiguanzon&show_icons=true&theme=dracula&locale=en" alt="akiguanzon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akiguanzon&theme=dracula" alt="akiguanzon" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akiguanzon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="akiguanzon" /></p> 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akiguanzon&show_icons=true&theme=dracula&locale=en" alt="akiguanzon" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akiguanzon&theme=dracula" alt="akiguanzon" /></p>
 
 <hr>
 
