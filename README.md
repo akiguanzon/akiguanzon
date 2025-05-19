@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akiguanzon&label=Profile%20views&color=04d600&style=flat" alt="akiguanzon" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiguanzon&label=Profile%20views&color=04d600&style=flat" alt="akiguanzon" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akiguanzon" alt="akiguanzon" /></a> </p>
 
