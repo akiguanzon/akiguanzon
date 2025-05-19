@@ -49,5 +49,5 @@ fields_of_interests:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Snake animation](https://github.com/akiguanzon/akiguanzon/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/akiguanzon/akiguanzon/blob/output/github-contribution-grid-snake-dark.svg)
 
