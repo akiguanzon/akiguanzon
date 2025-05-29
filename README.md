@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **aki.guanzon615@gmail.com**
-
 ``` yaml
 name: Carlos Antonio Guanzon (Aki is a nickname)
 location: Philippines
